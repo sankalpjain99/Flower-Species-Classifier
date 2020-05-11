@@ -9,7 +9,7 @@ When you've completed this project, you'll have an application that can be train
 
 ## Dataset
 
-The dataset used can be found [here]("https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html"). It consists of photos of flowers of 102 different species and our task is to identify them correctly.
+The dataset used can be found [here] ("https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html"). It consists of photos of flowers of 102 different species and our task is to identify them correctly.
 
 The data need to comprised of 3 folders
    - test
